@@ -5,6 +5,12 @@ Nuget 주소: https://www.nuget.org/packages/DBKR-SDK
 
 DBKR-SDK 1.2.0 릴리즈 노트
 ```diff
++ API베이스 URI 변경
+```
+PM설치법: ``Install-Package DBKR-SDK -Version 1.2.0``
+
+DBKR-SDK 1.2.0 릴리즈 노트
+```diff
 + 새로운 API엔드포인트 (/bots/@me) 추가
 + 코드퀄리티 상승
 ```

@@ -3,11 +3,11 @@ Nuget 주소: https://www.nuget.org/packages/DBKR-SDK
 샘플: https://github.com/ReDesignedJP/DBKR-SDK //버그리폿도 깃헙 이슈
 ## CHANGELOG
 
-DBKR-SDK 1.2.0 릴리즈 노트
+DBKR-SDK 1.2.1 릴리즈 노트
 ```diff
 + API베이스 URI 변경
 ```
-PM설치법: ``Install-Package DBKR-SDK -Version 1.2.0``
+PM설치법: ``Install-Package DBKR-SDK -Version 1.2.1``
 
 DBKR-SDK 1.2.0 릴리즈 노트
 ```diff
